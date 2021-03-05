@@ -8,4 +8,4 @@
 ##### Rafaela Oliveira de Sousa (1903063)
 
 ### Observações
-#### O Grupo trocou de projeto, devido a necessidade de ter um cliente e criou um breve resumo de negocio no artefato 01 <Novo Cliente>
+#### O Grupo trocou de projeto, devido a necessidade de ter um cliente e criou um escopo de apoio  [Novo Cliente] 01. Declaração do Escopo.
